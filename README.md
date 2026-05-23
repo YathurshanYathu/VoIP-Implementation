@@ -1,4 +1,4 @@
-# 📞 CET303 VoIP Implementation Project
+# 📞 VoIP Implementation Project
 
 ## 📖 Overview
 
