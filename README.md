@@ -17,7 +17,7 @@ The project focused on designing and implementing a functional VoIP PBX environm
 ✅ Audio Conferencing Rooms  
 ✅ Call Blocking / Blacklisting  
 ✅ VoIP Security Configuration  
-✅ VoIP traffic capture and analysis
+✅ VoIP traffic capture and analysis  
 ✅ FreePBX Firewall Protection  
 ✅ Music on Hold (MOH)
 
