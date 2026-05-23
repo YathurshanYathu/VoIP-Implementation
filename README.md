@@ -21,10 +21,6 @@ The project focused on designing and implementing a functional VoIP PBX environm
 ✅ FreePBX Firewall Protection  
 ✅ Music on Hold (MOH)
 
-
-
-
-
 ---
 
 # 🖥️ System Environment
@@ -82,7 +78,7 @@ This project provided practical experience in:
 
 # 👨‍💻 Author
 
-**[Your Name]**
+**S.Yathurshan**
 
 ---
 
