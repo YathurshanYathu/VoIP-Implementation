@@ -1,4 +1,3 @@
-
 # 📞 CET303 VoIP Implementation Project
 
 ## 📖 Overview
@@ -17,10 +16,14 @@ The project focused on designing and implementing a functional VoIP PBX environm
 ✅ Ring Group Configuration  
 ✅ Audio Conferencing Rooms  
 ✅ Call Blocking / Blacklisting  
-✅ VoIP Traffic Capture  
-✅ VoIP Security Configuration
+✅ VoIP Security Configuration  
+✅ VoIP Traffic Capture
 ✅ FreePBX Firewall Protection  
 ✅ Music on Hold (MOH)
+
+
+
+
 
 ---
 
@@ -79,7 +82,7 @@ This project provided practical experience in:
 
 # 👨‍💻 Author
 
-**S.Yathurshan**
+**[Your Name]**
 
 ---
 
@@ -90,4 +93,3 @@ This project provided practical experience in:
 ✔️ SIP softphone integration across desktop and mobile devices  
 ✔️ VoIP security configuration and testing  
 ✔️ Real-world troubleshooting and implementation experience
-
